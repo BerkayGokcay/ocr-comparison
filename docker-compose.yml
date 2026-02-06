@@ -1,0 +1,19 @@
+services:
+  ocr:
+    build: .
+    container_name: paddleocr_gpu
+    working_dir: /work
+    environment:
+      - PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK=True
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./paddleocr_cache:/root/.paddleocr
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    

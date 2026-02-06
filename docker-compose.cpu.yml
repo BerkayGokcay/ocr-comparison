@@ -1,0 +1,14 @@
+services:
+  ocr_cpu:
+    build:
+      context: .
+      dockerfile: Dockerfile.cpu
+    container_name: paddleocr_cpu
+    environment:
+      - PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK=True
+      # CPU performans ayarı (isteğe bağlı)
+      - OMP_NUM_THREADS=8
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./paddleocr_cache_cpu:/root/.paddleocr
