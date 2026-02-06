@@ -1,0 +1,2032 @@
+## PDF RESULT
+duration_ms:	13778.9
+pages:	64
+total_lines:	1833
+conf_avg:	0.9404
+conf_min:	0.5172
+conf_max:	0.9995
+
+--- page 1 ---
+lines:	5	conf_avg:	0.9815	conf_min:	0.9555	conf_max:	0.9986
+0.9986	Refrigerator
+0.9555	User manual
+0.9965	RF27T5201/RF27T5241
+0.9636	Free Standing Appliance
+0.9933	SAMSUNG
+
+--- page 2 ---
+lines:	51	conf_avg:	0.9641	conf_min:	0.5340	conf_max:	0.9995
+0.9972	Contents
+0.9804	Safety information
+0.9964	3
+0.9519	What you need to know about the safety instructions
+0.5340	2444
+0.9380	Important safety symbols and precautions:
+0.9288	State of California Proposition 65 Warning
+0.9527	Important safety precautions
+0.9608	Severe warning signs for transportation and site
+0.9804	Contents
+0.9637	Critical installation warnings
+0.9713	Installation cautions
+0.9623	Critical usage warnings
+0.9611	Usage cautions
+0.9667	Cleaning cautions
+0.9467	Critical disposal warnings
+0.9917	Installation
+0.9995	14
+0.9611	Refrigerator at a glance
+0.9986	14
+0.9761	Step-by-step installation
+0.9836	16
+0.9968	Operations
+0.9985	35
+0.9424	Main panel
+0.9458	Dispenser panel
+0.9631	Special features
+0.9942	43
+0.9974	Maintenance
+0.9991	45
+0.9622	Handling and care
+0.9953	Cleaning
+0.9931	Replacement
+0.9940	51
+0.9942	Troubleshooting
+0.9988	53
+0.9898	General
+0.9564	Do you hear abnormal sounds from the refrigerator?
+0.9628	LIMITED WARRANTY(U.S.A.)
+0.9992	59
+0.9611	SAMSUNG REFRICERATOR
+0.9962	59
+0.9488	Warranty Information(CANADA)
+0.9762	62
+0.9166	If your refrigerator needs service
+0.9588	Limited Warranty for Original Purchaser
+0.9303	Obligation to the Original Owner
+0.9941	63
+0.9614	Exclusions of the Warranty
+0.9903	63
+0.9503	2English
+
+--- page 3 ---
+lines:	25	conf_avg:	0.9411	conf_min:	0.9041	conf_max:	0.9847
+0.9786	Safety information
+0.9334	Before using your new Samsung Refrigeratorplease read this manual thoroughly to ensure
+0.9587	that you know how to operate the features and functions that your new appliance offers
+0.9405	safely and efficiently.
+0.9559	What you need to know about the safety instructions
+0.9277	This appliance is not intended for use by persons including childrenwithreduced
+0.9144	physical.sensory or mental capabilities,or lack of experience and knowledge,unless
+0.9468	they have been given supervision or instruction concerning use of the appliance by a
+0.9520	person responsible for their safety.Children should be supervised to ensure that they
+0.9385	do not play with the appliance
+0.9353	Because the following instructions cover various models.the characteristics of your
+0.9766	Safety information
+0.9397	refrigerator may differ slightiy from the refrigerator described in this manual.
+0.9183	If you have any question.contact us at 1-800-SAMSUNC or find help and information
+0.9569	online at www.samsung.com.
+0.9289	Refrigerant squirting out of the pipes could ignite ar cause an eye injury.When
+0.9465	refrigerant leaks from the pipe.avoid any naked flames and move anything flammable
+0.9597	away from the product and ventilate the room immediately
+0.9291	Failing to do so may result in fire or explosion
+0.9142	Improper use of the grounding plug can result in a risk of electric shock.If it is
+0.9237	necessary to use an extension cord.use only a 3-wire extension cord that has a 3-blade
+0.9311	grounding plug and a 3-slot receptacle that will accept the plug on the appliance.
+0.9041	The marked rating of the extension cord shouid be AC 115-120V.10 A.or more.Ifa
+0.9333	grounding adapter is usedmake sure the receptacle box is fully grounded.
+0.9847	English3
+
+--- page 4 ---
+lines:	31	conf_avg:	0.9581	conf_min:	0.8984	conf_max:	0.9972
+0.9961	Safetyinformation
+0.9491	Importantsafety symbols and precautions:
+0.9165	Please follow all safety instructions in this manual. Thismanual uses the following safety
+0.9439	symbols
+0.9834	WARNING
+0.9408	Hazards or unsafe practices that may result in severe personal injury,property damage
+0.9805	and/or death
+0.9859	CAUTION
+0.9695	Safety information
+0.9629	Hazards or unsafe practices that may result in severe personal injury and/or property
+0.9972	damage
+0.9790	NOTE
+0.9330	Usefulinformation that helps users understand or benefit from the refrigerator
+0.9710	These warning signs are here to prevent injury to you and others.
+0.9593	Please follow them carefully.
+0.9522	After reading this section, keep it in a safe place for future reference.
+0.9643	State of California Proposition 65Warning
+0.9936	WARNING
+0.9662	Cancer and Reproductive Harm-www.P65Warnings.ca.gov
+0.9705	Important safety precautions
+0.9676	WarningRiskof fire/flammable materials
+0.9896	WARNING
+0.9499	R-600a is used as a refrigerantThis product contains flammable gasRefrigerant
+0.9232	R-600a).contact your local authority in regard to safe disposal of this product.
+0.9307	In order to avoid the creation of a flammable gas-air mixture if a leak in the
+0.9396	refrigerating circuit occurs,the size of the room in which the appliance may be sited
+0.9335	depends on the amount of refrigerant used.The room must be 35.3 ft in size for every
+0.9453	8g of R-600a refrigerant inside the appliance
+0.9358	The installation lacation shauld not be exposed to direct sunlight and not placed near
+0.8984	any electric appliance or heat source,e.g.stove,oven or hob.radiator,etc
+0.9719	4English
+
+--- page 5 ---
+lines:	38	conf_avg:	0.9454	conf_min:	0.8816	conf_max:	0.9983
+0.9010	If you use twa products side by side,far safety reasonbe sure to use certified products
+0.9204	in explosive gas atmaspheres.
+0.9309	Never start up an appliance showing any signs of damage.If in doubt,consult your
+0.9615	dealer.
+0.9333	If the supply cord is damagedit must be replaced by the manufacturer,its service agent
+0.9442	or similarly qualified persons in order to avoid a hazard.
+0.9486	The socket must be easily accessible so that the appliance can be quickly disconnected
+0.9391	from the supply in an emergency.It must be outside the area of the rear of the
+0.9956	appliance
+0.9380	Do not store explasive substances such as aerosol cans with a flammable propellant in
+0.9482	this appliance.
+0.9776	Safety information
+0.9557	New hose-sets supplied with the appliance are to be used and that old hose-sets should
+0.8816	not be reused
+0.9479	When positioning the appliance,ensure the supply cord is not trapped or damaged.
+0.9431	Do not locate multiple portable socket-outlets or portable power supplies at the rear of
+0.8989	the appliance.
+0.9515	AWARNING
+0.9486	Fill with potable water only
+0.9317	Keep ventilation openingsin the appliance enclosure or in the built-in structure,clear of
+0.9763	obstruction.
+0.9582	Do not use mechanical devices or other means to accelerate the defrosting process
+0.9578	other than those recommended by the manufacturer.
+0.9424	Do not damage the refrigerant circuit.
+0.9564	Do not use electrical appliances inside the food storage compartments of The appliance
+0.9467	unless they are of the type recommended by the manufacturer
+0.9396	Connect to potable water supply only
+0.9584	AWARNING
+0.9237	Risk of child entrapment. Before you throw away your old refrigerator or freezer
+0.8890	Take oif the doors.
+0.9478	Leave the shelves in place so that children may not easily climb inside
+0.9538	This appliance is intended to be used in household and similar applications such
+0.9983	as
+0.9366	staff kitchen areas in shops.offices and other working environments
+0.9370	farm houses and by clients in hotels,motels and other residentialtype environments
+0.9596	bed and breakfast type environments
+0.9603	catering and similar non-retail applications
+0.9856	English5
+
+--- page 6 ---
+lines:	43	conf_avg:	0.9410	conf_min:	0.8828	conf_max:	0.9867
+0.9736	Safety information
+0.9598	Severe warning signs for transportation and site
+0.9575	AWARNING
+0.9434	When transporting and installing the appliance.care should be taken to ensure that no
+0.9646	parts of the refrigerating circuit are damaged
+0.9334	Refrigerant leaking from the pipe work could ignite or cause an eye injury.If a leak
+0.9288	is detected.avaid any naked flames or potential sources of ignition and air the room
+0.9502	in which the appliance is standing for several minutes.
+0.9367	This appliance contains a small amount of isobutane refrigerant R-60Oa).anatural
+0.9749	Safety information
+0.9277	gas with high environmental compatibility that is.however.also flammable
+0.9867	Critical installationwarnings
+0.8828	/AWARNING
+0.9340	Do not install the refrigerator in a damp locatian or place where it may come in contact
+0.9664	with water.
+0.9388	Deteriorated insulation on electrical parts may cause an electric shock or fire
+0.9489	Do not place thisrefrigerator in direct sunlight or expose it to the heat from stoves
+0.9088	room heaters,or other appliances,
+0.9380	Do not plug several appliances and the refrigeratorinto the same multiple power strip.
+0.9421	The refrigeratar should always be plugged into its own individual electrical outlet which
+0.9399	has a valtage rating that matches the voltage listed on the refrigerator's rating plate
+0.9555	This provides the best performance and also prevents overloading of house wiring
+0.9450	circuits,which could overheat the wires and cause a fire hazard
+0.9152	If the wall socket is loose,do not insert the power plug
+0.9220	There is a risk of electric shock or fire.
+0.9488	Da not use a power cord that has cracks or abrasion damage along its length or at
+0.9471	either end.
+0.9462	Do not bend the power cord excessively or place heavy objects on it
+0.9498	Do not pull or excessively bend the power cord.
+0.9526	Do not twist or tie the.power cord.
+0.9315	Do not hook the power cord over a metal object place a heavy object on the power
+0.9449	cord.insert the power cord between objects.or push the power cord into the space
+0.9332	behind the appliance.
+0.9139	When moving the refrigerator, be careful nat to roll over or damage the power cord.
+0.9329	This may result inan electric shock or fire
+0.9192	firmly and pull straight out from the outlet.
+0.9360	Damage to the cord may cause a short-circuit,fire,and/or electric shock
+0.9367	Do not install this appliance near a heater or flammable materiai.
+0.9372	Do not install this appliance in.a location where gas may leak
+0.9260	This may result in an electric shock or fire
+0.9527	This refrigerator must be properly located and installed in accordance with the
+0.9226	instructions in this manual before you use it
+0.9549	6English
+
+--- page 7 ---
+lines:	42	conf_avg:	0.9388	conf_min:	0.8892	conf_max:	0.9826
+0.9500	Connect the power plug in the proper position with the cord hanging down.
+0.9224	if you connect the power plug upside down,the wire can get cut off and cause a fire
+0.9271	or electric shock.
+0.9544	Make sure that the power plug isnot crushed or damaged by the back of the
+0.9521	refrigerator,
+0.9240	Keep the packing materials out of reach of children.
+0.9264	There is a risk of death from suffocation if a child puts the packing materials on his
+0.9251	or her head.
+0.9496	The appliance must be positioned so that the plug is accessible after installation.
+0.9373	Failing to do so may result in an electric shock or fire due to electric leakage
+0.9344	Do not install this appliance in a humid,oily or dusty location,or ina location expased
+0.9756	Safety information
+0.9519	to direct sunlight or ta waterrain drops
+0.9266	Deteriorated insvlation on electrical parts may cause an electric shock or fire
+0.9411	f large amounts of dust or water enter the refrigerator. disconnect the power plug and
+0.9464	contact a Samsung Electronics service center
+0.9338	Otherwise there is a risk of fire.
+0.9371	Do not stand on top of the appliance or place objectssuch as laundry.lighted candles
+0.8943	lighted cigarettes,dishes,chemicalsmetal objects.etc. on the appliance
+0.9043	Thismay result in an electric shock,fire,problems with the productor injury
+0.9105	You need to remove all the protective plastic film before you initially plug the product
+0.9407	Children should be supervised to ensure that they do not play with the snap rings used
+0.9531	for door adjustment or the water tube clips.
+0.9399	There is risk of death by suffocation if a child swallows a snap ring or water tube
+0.8892	clipKeep the snap rings and water tube clips out of children's reach.
+0.9575	The refrigerator must be safely grounded.
+0.9625	Always make sure that you have grounded the refrigerator before attempting to
+0.9446	investigate or repair any part of the appliance.Power leakages can cause severe
+0.9336	electric shock
+0.9354	Never use gas pipes,telephone lines,or other potential lightning attractors as an
+0.9598	electrical ground.
+0.9533	You must ground the refrigerator to prevent any power leakages or electric shocks
+0.9639	caused by current leakage from the refrigerator.
+0.8936	Current leakage may result in an electric shockfireexplosionor problems with the
+0.9826	product.
+0.9098	Plug the power plug into the wall socket firmly.Do not use a damaged power plug
+0.9261	damaged power cord,or loose wall socket.
+0.9398	This may result in an electric shock or fire.
+0.9402	Only a qualified technician or servite company should be allowed ta change the fuse.in
+0.9673	the refrigerator
+0.9332	Failing to do so may result in an electric shock or personal injury
+0.9783	English7
+
+--- page 8 ---
+lines:	41	conf_avg:	0.9389	conf_min:	0.8720	conf_max:	0.9888
+0.9736	Safety information
+0.9724	Installation cautions
+0.9284	ACAUTION
+0.9228	Allow sufficient space around the refrigerator and install it on a flat surface.
+0.9459	Keep the ventilation space in the appliance enclosure or mounting structure clear of
+0.9749	obstructions.
+0.9496	After you have installed the refrigerator and turned it on,allow the appliance to stand
+0.9356	for 2 hours before loading it with food.
+0.9446	It is strongly recommended you have a qualified technician or service company install
+0.9791	Safety information
+0.9639	the refrigerator.
+0.8965	Failing to do so may result in an electric shackfireexplosion,problems with the
+0.8720	product.or injury
+0.9319	Overloading one door may make the refrigerator fall,causing.physical injury
+0.9676	Critical usage warnings
+0.9888	WARNING
+0.9248	Do not insert the power piug into a wall socket with wet hands
+0.9281	This may result in an electric shock
+0.9267	Do not store articles on the top of the appliance.
+0.9352	When you open or close the door,the articles may fall and cause personal injury
+0.9570	and/or material damage
+0.9164	Do not insert hands,feet.or metal objectssuch as chopsticks.etc. into the bottom or
+0.9222	the back of the refrigerator.
+0.9228	This may result inan electric shock or injury.
+0.9431	Do not touch the inside walls of the freezer or products stored in the freezer with wet
+0.9638	hands.
+0.9315	This may cause frostbite.
+0.8876	Do not put a container filled withwater on the refrigerator.
+0.9067	If spilledthere is a risk of fire or electric shack
+0.9147	Do not keep volatile or flammable objects or substancesbenzene,thinner.propane gas
+0.9243	alcohol.ether.LP gasand other such products in the refrigerator.
+0.9342	This refrigerator is for storing faod only
+0.9304	This may result in fire or explosion.
+0.9380	Children should be supervised to ensure that they do nat play with the appliance.
+0.9301	Keep fingers out ofpinch pointareas.Ciearances between the doors and cabinet
+0.9545	are necessarily small. Be carefulwhen you open the doors if children are in the area
+0.9298	Do not let children hang an the door or door bins.A serious injury may occur
+0.9414	Do not let children go inside the refrigerator. They could become trapped
+0.9529	Do not insert your hands into the area under the appliance
+0.9620	Any sharp edges may cause personal injury.
+0.9677	8English
+
+--- page 9 ---
+lines:	49	conf_avg:	0.9357	conf_min:	0.8699	conf_max:	0.9836
+0.9153	Do not store pharmaceutical products.scientific materials,or temperature sensitive
+0.9496	products in the refrigerator
+0.9475	Products that require strict temperature controls must not be stored in the
+0.9612	refrigerator.
+0.9335	Do not place or use electrical appliances inside the refrigerator/freezer,unless they are
+0.9624	of a type recommended by the manufacturer
+0.9093	If you smell smoke,pull out the power plug immediately,and then contact a Samsung
+0.9558	Electronics service center.
+0.9478	If large amounts of dust or water enter the refrigeratordisconnect the power plug and
+0.9249	contact your Samsung Electronics service center.
+0.9089	Otherwise there is a risk of fire.
+0.9824	Safety information
+0.9299	Do not let children step on a drawer
+0.9343	The drawer may break and cause them to slip.
+0.9430	Do not leave the doors of the refrigerator open while the refrigerator is unattended and
+0.9452	do not let children enter the refrigerator
+0.9344	Do not allow babies or children to go into a drawer.
+0.9451	It can cause death from-suffocation by entrapment or personal injury
+0.9266	Do not overfill the refrigerator with food
+0.9301	When you open the door, an itemmay fall out and cause personal injury ormaterial
+0.9681	damage.
+0.9375	Do not spray volatile material such as insecticide onto the surface of the appliance
+0.8960	As well as being harmful to humans,it may also result in an electric shockfireor
+0.9391	probiems with the product.
+0.9176	Never put fingers or any objects into the water dispenser outlet.ice chute,or ice make
+0.9433	bucket.
+0.9224	It may cause a personal injury or material damage.
+0.9533	Do not use or place any substances sensitive to temperature such as flammable sprays
+0.9111	flammable objects,dry icemedicine,or chemicals near or inside the refrigerator.
+0.9328	Donot use a hair dryer to dry the inside of the refrigerator.Do not place a lighted
+0.9587	candle in the refrigerator to remove bad odors.
+0.9161	This may result in an electric shock or fire.
+0.9338	Fill the water tank and ice cube trays.with potable water only tap water.mineral water,
+0.9115	or purified water
+0.8984	Do not fill the tank with tea,juice,or asports drink.They can damage the
+0.9836	refrigerator.
+0.9324	Do not stand on top of the appliance or place objects such as laundry,lighted candles
+0.9197	lighted cigarettes.disheschemicalsmetal objectsetc.on the appliance.This may
+0.8982	result in an electric shock.fire,problems with the product,or injury.Do not put a
+0.9555	container filled with water on the appliance
+0.8699	If spilled.there is a risk of fire ar electric shock
+0.9276	Never stare directly at the UV LED lamp for long periads of time
+0.9370	This may result in eye strain due to the ultraviolet rays
+0.9170	Do not put a fridge shelf into the refrigerator upside down.The shelf stopper will not
+0.9762	work.
+0.9436	The glass shelf could fall and cause personal injury.
+0.9539	Keep fingers out ofpinch pointareas.Clearances between the doors and cabinet are
+0.9454	necessarily small. Be careful when you open the doors if children are in the area.
+0.9614	English9
+
+--- page 10 ---
+lines:	33	conf_avg:	0.9292	conf_min:	0.5959	conf_max:	0.9930
+0.9930	Safetyinformation
+0.9202	If a gas leak is detected.avoid any naked flames or potential sources of ignition,and air
+0.9504	the room in which the appliance is standing for several minutes
+0.9365	Do not touch the appliance or power cord.
+0.9301	Do not use a ventilating fan.
+0.9276	A spark may result in an expiosion or fire.
+0.9401	Use oniy the LED Lamps provided by the manufacturer or its service agents
+0.9408	Bottles should be stored tightly tagether so that they do not fall over or out.
+0.9386	This product is intended only for the storage of food in a domestic enviranment.
+0.9114	Never put fingers or any objects into the water dispenser outletice chute.or ice maker
+0.9697	bucket.
+0.9506	This can cause a personal injury or material damage.
+0.9792	Safety information
+0.9186	Do not attempt to repair.disassembleor modify the refrigerator yourself.
+0.9265	modification,we will.charge the full cost of parts and labor.
+0.9365	If your refrigerator needs to be repaired or reinstalled. contact your nearest Samsung
+0.9108	Failing to do so may result in an electric shackfireproblems with the productor
+0.9289	injury,
+0.9878	center.
+0.9344	If the refrigerator emits a burning smell or smoke,unplug the refrigerator immediately
+0.9420	and contact a Samsung service center
+0.9359	Failing to do so may result in an electric or fire hazards.
+0.9350	Pull the power plugout of the socket before changing the interior lamps of the
+0.9893	refrigerator.
+0.9248	If you experience difficulty changing a non-LED light,contact a Samsung service center
+0.9363	If the product is equipped with LED lampsdo nat disassemble the Lamp Covers and
+0.8956	LED lamps yourself.
+0.9324	Contact a Samsung service center.
+0.9165	Plug the pawer plug into the wall socket firmly.
+0.9330	Do not use a damaged power plug,damaged power cord,or loose wall socket
+0.9141	This may result in an electric shack or fire
+0.9806	10English
+0.5959	Janiad
+
+--- page 11 ---
+lines:	38	conf_avg:	0.9433	conf_min:	0.8829	conf_max:	0.9867
+0.9733	Usage cautions
+0.9867	CAUTION
+0.9435	Do not re-freeze frozen foods that have thawed completely
+0.9431	Use only the ice maker provided with the refrigerator
+0.9519	To get the best performance from the product
+0.9473	Do not place food too close to the vents at the rear of the refrigerator as this can
+0.9596	obstruct free air circulation in the refrigerator compartment.
+0.9231	Wrap food up properly or place it in airtight containers before putting it into the
+0.9845	refrigerator.
+0.9767	Safety information
+0.9384	Please observe maximum storage times and expiration dates of frozen goods.
+0.9451	Do not put glass containers or bottles or carbonated beverages into the freezer.
+0.9498	The container may freeze and breakand this may result in injury
+0.9473	Service Warranty and Modification.
+0.9278	Any changes or modifications performed by a 3rd party on this finished appliance
+0.9420	are not covered under Samsung warranty service.nor is Samsung responsible for
+0.9238	safety issues that result from 3rd party modifications.
+0.9433	Do not block the air vents inside the refrigerator.
+0.9276	If the air vents are blockedespecially with a plastic bag.the refrigerator can be over
+0.9201	cooled.if a cooling period lasts too long.the water filter may break and cause water
+0.9844	leakage.
+0.9446	If the refrigerator is disconnected from the power supplyyou should wait for at least
+0.9289	five minutes befare plugging it back in
+0.9181	If large amounts of water enter the.refrigerator. pull out the power plug and contact a
+0.9712	Samsung service center
+0.9515	Do not strike or apply excessive force to any glass surface.
+0.9410	Fill the water tank and ice cube trays with potable water only (tap water mineral water
+0.9125	or purified water).
+0.9072	Do not fll the tank with teajuice,or a sports drink.They can damage the
+0.9858	refrigerator
+0.9442	If the refrigerator is floodedshut off the power to the refrigerator and contact your
+0.9635	nearest Samsung service center.
+0.9230	There is a risk of electric shock or fire
+0.9141	Do not keep vegetable oil in your refrigerator'sdoor bins.The oil can solidify.making it
+0.9206	foul-tasting and difficult to use.In addition,the open container can leak and the leaked
+0.9172	oil can cause the door bin to crack.After opening an oil.container,it is best to keep the
+0.8829	Examples of vegetable oilolive oil.carn ol.grape-seed oil.etc
+0.9788	English11
+
+--- page 12 ---
+lines:	34	conf_avg:	0.9333	conf_min:	0.5346	conf_max:	0.9938
+0.9736	Safety information
+0.9778	Cleaning cautions
+0.9887	CAUTION
+0.9436	Do not spray water directly on the inside or outside of the refrigerator
+0.9304	There is a risk of fire ar electric shock.
+0.9496	Do not use a hair dryer to dry the inside of the refrigerator.
+0.9418	Do not place a lighted candle in the refrigerator to remove bad odors.
+0.9206	This may result in an electric shack or fire
+0.9805	Safety information
+0.9484	Printed letters on the display may come off.
+0.9289	If any foreign substance such as water has entered the applianceunplug the power
+0.9514	plug and contact your nearest Samsung service center
+0.9307	Failing to do so may result in an electric shock or fire
+0.9408	Use a clean,dry cloth to remove any foreign matter or dust from the power plug blades
+0.9418	Do not use a wet or damp cloth when cleaning the plug
+0.9200	Otherwise,there is a risk of fire or electric shock.
+0.9246	Do not use benzene,thinneror Cioroxbleach to ciean the refrigerator
+0.9408	They may damage the surface of the appliance and may cause a fire
+0.9374	Never put fingers or any objects into the dispenser autlet
+0.9599	This can cause a personal injury or material damage
+0.9359	Before cleaning or performing maintenance,unplug the appliance from the wall socket.
+0.9047	Falling to do so may result in an electric shock or fire
+0.9426	Use a clean sponge or soft cloth and a mild detergent in warm water to clean the
+0.9938	refrigerator
+0.9407	Do not.use abrasive or harsh cleansers such as window sprays.scouring cleansers
+0.8845	flammable fluids.muriatic acidcleaning waxes.concentrated detergents.bleaches.ar
+0.9294	cleansers cantaining petroleum products on exterior surfaces doors and cabinet.plastic
+0.9528	partsdoor and interior linersand gaskets
+0.9673	These can scratch or damage the material.
+0.9396	Do not clean glass shelves or covers with warm water when they are cold.Giass shelves
+0.9537	and covers may break if exposed to sudden temperature changes or impacts such as
+0.9421	bumping ar dropping.
+0.9803	12English
+0.5346	Vaniad4
+
+--- page 13 ---
+lines:	21	conf_avg:	0.9463	conf_min:	0.9153	conf_max:	0.9881
+0.9729	Critical disposal warnings
+0.9268	AWARNING
+0.9470	Children trapped inside a refrigerator can hurt themselves or suffocate to death
+0.9523	Please dispase of the packaging material from this product in an environmentally
+0.9244	friendly manner.
+0.9431	Ensure that none of the pipes on the back of the refrigerator are damaged prior to
+0.9881	disposal.
+0.9222	This product contains R-600aa flammable gaswhich is used as the refrigerant.Contact
+0.9411	your local authorities regarding safe dispasal of this product.
+0.9795	Safety information
+0.9358	When disposing of this refrigeratorremove the door/door seals and door latch so that
+0.9424	small children or animals cannot become trapped inside.Children shouid be supervised
+0.9308	to ensure that they do not play with the appliance.
+0.9343	if trapped inside,the child could be injured or suffocate to death.
+0.9359	Cyclopentane is used in the insulatianThe gases in the insulation material require
+0.9408	a special disposal procedure.Please contact your local authorities in regard to the
+0.9479	enviranmentally safe disposal of this.product.
+0.9393	Keep all packaging materials well out of the reach of childrenas packaging materials
+0.9713	can be dangerous to children.
+0.9153	If a child places a bag over his or her head.the child could suffocate
+0.9812	English13
+
+--- page 14 ---
+lines:	14	conf_avg:	0.9362	conf_min:	0.7063	conf_max:	0.9907
+0.9907	Installation
+0.9438	prevent accidents before using it.
+0.9837	WARNING
+0.9328	Use the refrigerator only for its intended purpose as described in this manual
+0.9418	Any servicing must be performed by a qualified technician
+0.9503	Dispose of the product packaging material in compliance with the local regulations.
+0.9262	To prevent electric shock.unplug the power plug before servicing or replacing parts
+0.9419	Refrigerator at a glance
+0.9422	The actual refrigerator and provided component parts of your refrigerator may differ from
+0.9383	the illustrations in this manual. depending on the model and the country
+0.9872	Installation
+0.7063	08
+0.9423	04
+0.9798	14English
+
+--- page 15 ---
+lines:	24	conf_avg:	0.9298	conf_min:	0.8675	conf_max:	0.9959
+0.8781	01 Auto ice Maker
+0.9046	02 Main panel
+0.9455	03 WidePantry
+0.9733	04Freezer
+0.9013	05Door bins
+0.8675	06 Water filter
+0.8938	07Ice Maker
+0.8997	08 ice bucket
+0.9636	applicablemodelsonly
+0.9623	NOTE
+0.9067	For energy efficiency.keep all shelves.drawers.and baskets in their original positions
+0.9313	When closing the door,make sure the vertical hinged sectian is in the correct position
+0.9272	to avoid scratching the other door.
+0.8846	If the vertical hinged section is reversedput it back into the correct positionand then
+0.9369	close the door
+0.9459	Moisture may form at times on the vertical hinged section
+0.8878	If you close a door forcefully,the other door may open.
+0.9217	When a door is opened.the interiock switch autamatically disables the auger motor of
+0.9959	Installation
+0.9710	the ice maker for safety reasons.
+0.9374	If the internal or external LEDlamp isout of order.contact a local Samsung service
+0.9957	center
+0.8984	If the door is left open for too long, the top internal LEDwill blink. This is normal.
+0.9841	English15
+
+--- page 16 ---
+lines:	21	conf_avg:	0.9312	conf_min:	0.6456	conf_max:	0.9945
+0.9944	Installation
+0.9751	Step-by-step installation
+0.8811	sTEP 1 Select a site
+0.9499	Select a site that:
+0.9203	Has a solidlevel surface without carpeting or fiooring that may obstruct ventilation
+0.9371	Isaway from direct sunlight
+0.9500	Has adequate room for opening and closing the door
+0.9171	Is away from any heat sources
+0.9423	Provides room for maintenance and servicing
+0.9488	Has a temperature range between 50F10Cand 109F43C
+0.9871	CAUTION
+0.9348	If your refrigerator is equipped with an ice maker.provide extra space at the rear of the
+0.9152	when you install the refrigerator next to a fixed wall.you must provide a minimum
+0.9945	Installation
+0.9471	clearance of 3/495 mm from the wall to allow the door to swing open.
+0.9616	NOTE
+0.9384	To facilitate moving your refrigerator to its final locationbe sure to measure the width
+0.9202	and height of doorways,thresholds,ceilings,stairways,and anything eise that needs to be
+0.9386	taken into consideration to ensure you can move your refrigerator safely. The following
+0.9568	16English
+0.6456	Vaniad+
+
+--- page 17 ---
+lines:	41	conf_avg:	0.9465	conf_min:	0.6643	conf_max:	0.9979
+0.9962	Clearance
+0.9504	See the following figures and tables for space requirements for installation
+0.9931	Model
+0.9154	RF27'
+0.9868	DepthA
+0.8633	32²/836mm
+0.9651	35/4908mm
+0.9370	HeightC
+0.9262	68/1749mm
+0.9815	OverallHeight"D
+0.9582	701777mm
+0.9786	DepthE
+0.9478	35/898mm
+0.9959	Installation
+0.9972	Model
+0.9298	RF27'
+0.9715	01
+0.9737	250mm
+0.9930	02
+0.8798	130°
+0.9677	62/1581mm
+0.9941	04
+0.8216	13°/s (337 mm)
+0.9866	05
+0.9726	35/908mm
+0.9833	06
+0.9202	28/s735mm
+0.6643	L0
+0.8660	3/a93mm
+0.9952	80
+0.8944	1/47mm
+0.9871	09
+0.9221	47²/1201mm
+0.9979	10
+0.9598	517/s1318mm
+0.9740	NOTE
+0.9656	The measurements in the table above
+0.9319	may differ slightly from the actual
+0.9281	measurements.depending on the
+0.9573	measuring androunding method
+0.9783	English17
+
+--- page 18 ---
+lines:	22	conf_avg:	0.9470	conf_min:	0.8872	conf_max:	0.9943
+0.9936	Installation
+0.9146	STEP 2Flooring
+0.9391	If the refrigerator cannot pass through the entrance due to its size,see STEP 3 Door
+0.9765	removal for entrance.
+0.9777	NOTE
+0.9188	To prevent floor damage,make sure the
+0.9386	front leveling legs are in the upright
+0.9502	position.
+0.9608	The surface you install the refrigerator
+0.9407	on must support a fully loaded
+0.9943	refrigerator.
+0.8963	To protect the floor.put a large piece
+0.9420	of cardboard alang the path to the
+0.9496	refrigerator's final installation location
+0.9247	Once the refrigerator is in its final
+0.8872	position,do not move it uniess
+0.9426	necessary to protect the floor.If you
+0.9930	Installation
+0.9484	have to move the refrigerator,place
+0.9374	thick paper or cloth such as old carpets
+0.9247	along the path of moverment.
+0.9835	18English
+
+--- page 19 ---
+lines:	14	conf_avg:	0.9334	conf_min:	0.7248	conf_max:	0.9869
+0.9376	sTEP 3Door removal for entrance
+0.9302	size,follaw these instructions to remave and then re-install the refrigerator's doors.lf you
+0.9559	do not need to remove the doors. go to page 26 to continue the installation procedure.
+0.9440	AWARNING
+0.9409	Unplug the power cord of the refrigerator before removing the doors
+0.9390	Tools required (not provided)
+0.9523	Phillips-screwdriver
+0.9608	Flat-head screwdriver
+0.9394	Socketwrench/(10.mm)
+0.9869	Installation
+0.9600	Pliers
+0.9105	Allenwrench/45mm)
+0.9849	English19
+0.7248	0-11.M34
+
+--- page 20 ---
+lines:	21	conf_avg:	0.9573	conf_min:	0.9146	conf_max:	0.9943
+0.9943	Installation
+0.9727	Detach the fridge doors
+0.9429	Left door
+0.9199	1.With the doors closeduse a Phillips
+0.9622	head screwdriver to remove the screws
+0.9455	x3in the top cover.
+0.9570	2.Disconnect the wires and the water tube
+0.9435	from the left-side door.Do the following
+0.9922	sequentially:
+0.9872	Installation
+0.9646	Decouple the connector.
+0.9409	While holding downone end or the
+0.9442	water line coupler,disconnect the water
+0.9940	tube
+0.9849	CAUTION
+0.9245	Keep the water tube clips out of children's
+0.9925	reach.
+0.9352	3.Gently draw up the clamp.To prevent
+0.9250	finger injuries.do not apply a sudden
+0.9146	force to the ciamp.
+0.9659	20English
+
+--- page 21 ---
+lines:	23	conf_avg:	0.9377	conf_min:	0.7118	conf_max:	0.9959
+0.9325	4.Pull the clamp to remove it
+0.9731	NOTE
+0.9413	Be careful not to drop the clamp on the
+0.9826	floor
+0.9403	5.Open the door 90 degrees.While
+0.8957	holding the door,pull up and remove
+0.9371	the top hinge.Be careful not to damage
+0.9599	the cannector wires when you remove
+0.9861	the hinge
+0.9775	NOTE
+0.9959	Installation
+0.9351	Be careful not to drop the hinge on the
+0.8839	floor.
+0.9225	6.Gently pull up the door vertically to
+0.9345	remove.Do nat apply excessive force
+0.9146	to the door.The door may fall. causing
+0.9499	physical injury.
+0.9476	7.Lay the door down on a flat surface
+0.9517	ACAUTION
+0.9122	Please put the daor dawa slowly to prevent
+0.9924	scratches.
+0.9885	English21
+0.7118	-11.M3434
+
+--- page 22 ---
+lines:	19	conf_avg:	0.9488	conf_min:	0.8991	conf_max:	0.9872
+0.9756	Installation
+0.9831	Right door
+0.9281	1.Gently draw up the clamp.To prevent
+0.8991	inger injuries.do not apply asudden
+0.9375	force to the clamp.
+0.9133	2.Pull the clamp to remave it
+0.9687	NOTE
+0.9356	Be careful not to drop the clamp on the
+0.9872	Installation
+0.9138	foar
+0.9402	3.Open the door 90 degrees.While
+0.9300	holding the door.pull up and remove
+0.9469	the top hinge.Be careful not to damage
+0.9501	the connector wires when you remove
+0.9834	the hinge
+0.9657	NOTE
+0.9308	Be careful not to drop the hinge on the
+0.9706	floor.
+0.9669	22English
+
+--- page 23 ---
+lines:	21	conf_avg:	0.9481	conf_min:	0.9033	conf_max:	0.9959
+0.9449	4.Gently pull up the door vertically to
+0.9613	remove.Do not apply excessive force
+0.9127	to the door. The door may fall,causing
+0.9582	physical injury.
+0.9117	5.Lay the door down on a flat surface
+0.9614	To reattach the fridge door
+0.9281	After you have maved the refrigerator to its final locationreattach the doors by fallowing
+0.9959	Installation
+0.9495	the removal instructions in reverse order
+0.9869	CAUTION
+0.9493	To prevent water leaks from the dispenser
+0.9653	the water line must be fully connected
+0.9647	Make sure both tubes of the water line are
+0.9542	inserted fully to the center of transparent
+0.9548	coupler Aor the guidelinesB
+0.9097	02
+0.9033	03
+0.9633	01Dispenser
+0.9372	02 Center of transparent coupler
+0.9116	03 Guidelines
+0.9869	English23
+
+--- page 24 ---
+lines:	14	conf_avg:	0.9550	conf_min:	0.9017	conf_max:	0.9962
+0.9922	Installation
+0.9602	To detach the freezer drawer
+0.9546	1.Lift up the frontof the upper basket and
+0.9422	pull to remove.
+0.9017	2.Then,pull up to remove the lower
+0.9521	basket from the rail assembly.
+0.9962	Installation
+0.9293	3.Press down the hooks to unlock the rail
+0.9661	assembly.
+0.9342	4.While holding the upper area of the
+0.9467	freezer drawer front.slide the drawer
+0.9520	out all the way to remove the freezer
+0.9607	drawer from the rail assembly
+0.9824	24English
+
+--- page 25 ---
+lines:	19	conf_avg:	0.9059	conf_min:	0.5957	conf_max:	0.9959
+0.9858	CAUTION
+0.9277	Be careful not to scratch or dent the rail
+0.9860	assembly.
+0.9338	Make sure you maunt the freezer
+0.9631	baskets in the correct position.
+0.9091	Otherwise,the doar willnot open ar
+0.8584	close properly,which causes frost to
+0.8986	build up
+0.5957	.
+0.9012	Do not store too much faod in the
+0.9444	freezer drawer.This prevents the freezer
+0.9447	drawer from closing properlyresulting
+0.9013	in frost buildup
+0.9702	To reattach the freezer drawer
+0.9336	Once the refrigerator is in or near its final locationre-attach the freezer drawer by
+0.9509	following the directions in.the reverse order of remaval.
+0.9959	Installation
+0.9838	English25
+0.6270	.M3
+
+--- page 26 ---
+lines:	23	conf_avg:	0.9342	conf_min:	0.6135	conf_max:	0.9971
+0.9971	Installation
+0.9375	sTEP 4Leveling the refrigerator
+0.9917	CAUTION
+0.9036	When installed.the refrigerator must be leveled an a fiat,solid floar.Not leveling the
+0.9642	refrigerator can cause damage to the refrigerator or physical injury
+0.9422	Leveling must be performed with the refrigerator empty.Make sure no food items are
+0.9649	inside the refrigerator.
+0.9246	For safety reasons,adjust the front a little higher than therear.
+0.9499	Level the refrigerator using the special screwslevelers on the front legs.Use a flat-head
+0.9553	screwdriver to turn the levelers.
+0.9509	To adjust the height of the left side
+0.9469	insert a flat-head screwdriver into the
+0.9048	leveler of the left side front leg.Turn the
+0.9370	leveler clockwise to raise the left side or
+0.9507	turn it counterclackwise to lower.
+0.9931	Installation
+0.9471	To adjust the height of the right side
+0.9466	insert a flat-head screwdriver into the
+0.9144	eveier of theright sidefront leg.Turn
+0.9597	the leveler clockwise to raise the right
+0.9300	side or turn it counterclockwise to lower.
+0.9615	26English
+0.6135	Vaniads
+
+--- page 27 ---
+lines:	19	conf_avg:	0.9350	conf_min:	0.8800	conf_max:	0.9959
+0.9556	STEP 5 Adjust the door height and the door gap
+0.9679	Snap rings
+0.9238	The height of a door can be adjusted using the provided
+0.9154	snap rings.which come in 4different sizes1mm
+0.8800	1.5mm,2mm,and 2.5mm
+0.9421	To adjust the height of a door
+0.9586	1.Check the height difference between the
+0.9222	doors.and then lift up and hold the door
+0.9418	with the lower height.
+0.9959	Installation
+0.9081	2.Insert a suitable-sized snap ring A
+0.9175	between the door grommet(B and the
+0.9310	hinge as shown.
+0.9395	ACAUTION
+0.9014	insert only one snap ring.If youinsert twa or more snap rings,the ringsmay slip out or
+0.9011	makea rubbing noise.
+0.9292	Keep the snap rings out of children'sreach and keep them for future use
+0.9479	Do not raise the door too much.The door can contact and damage the top cover
+0.9865	English27
+
+--- page 28 ---
+lines:	25	conf_avg:	0.9478	conf_min:	0.9035	conf_max:	0.9955
+0.9934	Installation
+0.9418	STEP 6Attach the handles
+0.9533	ACAUTION
+0.9525	The refrigerator handlesmust be oriented
+0.9656	in the correct direction
+0.9532	The fridge handles must be attached so
+0.9550	that the holes on each face each other
+0.9503	The freezer handle must be attached so
+0.9658	that its hole faces downwards
+0.9306	1.Using a Phillips.screwdriver.attach the
+0.9293	handle screws to the refrigerator.two
+0.9286	for each handle respectively.as shawn
+0.9301	in the illustration to the left
+0.9955	Installation
+0.9456	2.Attach the handie to the handle screws
+0.9035	on the door.
+0.9077	For type B handleInsert the hook on the
+0.9162	middle of the handle to its designated hole
+0.9319	on the door.and then place the upperand
+0.9361	Iower part of the handles to the handie
+0.9926	screws.
+0.9709	NOTE
+0.9392	The design of the right side door handle
+0.9360	may differ depending on your model.
+0.9696	28English
+
+--- page 29 ---
+lines:	15	conf_avg:	0.9365	conf_min:	0.7985	conf_max:	0.9895
+0.9257	3.Push the handie down.
+0.9368	4.Insert the supplied wrench inta the
+0.9296	handie hole.and then turn it clockwise
+0.9235	to tighten.
+0.9384	5.Repeat Steps 2 through 4with the
+0.9624	second refrigerator daor handle.
+0.9886	Installation
+0.9590	6.To attach the freezer handle to the
+0.9183	refrigeratarfirst place the ieft side of
+0.9453	the freezer handie onto the left handle
+0.9183	screw,and then push it to the left,
+0.9554	7.Then.place the right side of the freezer
+0.9575	handle onto the right handle screw.
+0.9895	English29
+0.7985	0-11.M340
+
+--- page 30 ---
+lines:	6	conf_avg:	0.9634	conf_min:	0.9072	conf_max:	0.9966
+0.9966	Installation
+0.9339	8.Insert the supplied wrench into the
+0.9072	handle hole, and then turn it clockwise
+0.9699	to tighten.
+0.9853	Installation
+0.9878	30English
+
+--- page 31 ---
+lines:	23	conf_avg:	0.9478	conf_min:	0.9246	conf_max:	0.9967
+0.9498	sTEP 7Connect the water dispenser line
+0.9297	A water dispenser with a filter is one of the helpful features on your new refrigerator.To
+0.9368	help promote better health.the water filter removes unwanted particles from your water
+0.9326	However,it does not sterilize or destroy microorganisms.You may need to purchase a
+0.9509	water purifying system to do that.
+0.9399	The water line also connects to the ice maker.For the ice maker to operate properly.water
+0.9380	pressureof30to120psi206 to 827kPapsi is required.
+0.9393	If the refrigerator is installed in an area with lowwater pressurebelow30 psi/206kPa
+0.9413	you can install a booster pump to compensate for the iow pressure
+0.9499	After you have connected the water line,make sure the water storage tank inside the
+0.9398	from the water outlet
+0.9574	NOTE
+0.9487	Water line installation kits are available at extra cost from your retailer.We recommend
+0.9246	using a water line installation kit that contains copper tubing and a/46 mm
+0.9597	compression nut
+0.9967	Installation
+0.9445	1.Shut off the main water source
+0.9348	2.Insert the pipe clampB and the shutoff
+0.9664	A
+0.9428	valve Cinto the cold water lineA
+0.9614	3.Connect the water line installation kit
+0.9270	A to the shutoff valve B
+0.9879	English31
+
+--- page 32 ---
+lines:	30	conf_avg:	0.9377	conf_min:	0.5688	conf_max:	0.9952
+0.9943	Installation
+0.9664	Connect the water supply line to the refrigerator
+0.9199	There are several items you must purchase to.complete this connection. You may find these
+0.9248	items sold as a kit at your local hardware store.
+0.9267	/4copper tubing
+0.9656	Copper Tubing
+0.9396	/4compression nut1pc
+0.9690	Ferrule2pc
+0.9690	Plastic Tubing
+0.9478	/4plastic tubingMoldedendBulb
+0.9552	1/4compression nut1pc
+0.9763	A.Refrigerator
+0.9295	B.Household water supply line
+0.9300	C.Water Linemust be kept straight
+0.9565	01Compression Nut/Assembled
+0.9659	02FerruleNot supplied
+0.9952	Installation
+0.9303	03 Copper tubingNot supplied)
+0.9380	04Plastic Tubing(Assembled)
+0.9077	0s Compressian Fitting (Assembied)
+0.9393	06 Molded endBulb
+0.9429	07Compressiannut/4Notsupplied
+0.9331	08 Plastic TubingNot supplied)
+0.9787	NOTE
+0.9512	If you have to relocate the refrigerator
+0.9362	affer connecting the water lineC.make
+0.9398	sure the joined section of the water line is
+0.9749	straight.
+0.9584	32English
+0.5688	Uanisds
+
+--- page 33 ---
+lines:	31	conf_avg:	0.9426	conf_min:	0.8659	conf_max:	0.9953
+0.9866	CAUTION
+0.9409	Do not mount the water filter on any part
+0.9435	of the refrigerator. This.may damage the
+0.9726	refrigerator.
+0.9542	1. Connect the household water line to the assembled compressian fitting.
+0.9520	ferrulenot suppliedon the copper tubing(not suppliedas shown
+0.9342	If youare using plastic tubing 08.insert the molded endBulbof the plastic tubing
+0.9277	(08) into the compression fitting.
+0.9425	ACAUTION
+0.9953	Installation
+0.9327	If you use plastic tubing08.do not use it without the molded endBulb
+0.9494	Leaving the water line disconnected may cause the water valve to produce a buzzing
+0.9352	sound over time.If this is the case.make sure that the ice making function is turned
+0.9407	OFFand do not attempt to use the water dispenser
+0.9414	2.Tighten the compression nut 07 onto the compression fitting.Do not over-tighten the
+0.9849	compressionnut(07).
+0.9350	3.Turn the water on and check for any leakage. If you find water drops or leakage in
+0.9324	the connection areas.turn off the main water supply.Check the connections and,if
+0.8659	necessary.tighten.
+0.9351	4.Flush 1 gallon of water through the filter befare drinkingor using the water from the
+0.9345	refrigerator.Flush approximately 6minutes. To flush.press a large glass or cup against
+0.9339	the water dispenser lever.Fill the glass.empty it,and then repeat
+0.9258	5.After you turnon the refrigerator.let the ice maker make ice for 1 to 2 days.Over that
+0.9031	period of time,throw out the first1 or 2 buckets of ice the ice maker makes to ensure
+0.9463	all impurities have been removed from the water line.
+0.9745	NOTE
+0.9423	Only connect the water line to a potabie water source
+0.9090	if you have to repair or disassemble the water line,cut off of the plastic tubing to
+0.9396	make sure you get a snug.leak-free connection.
+0.9359	You can test the water line quickly using a paper cup.Under normal conditions.the
+0.9730	English33
+
+--- page 34 ---
+lines:	19	conf_avg:	0.9445	conf_min:	0.9136	conf_max:	0.9972
+0.9972	Installation
+0.9267	sTEP 8Initial settings
+0.9220	By completing the following steps, the refrigerator should be fully functioning.
+0.9522	1.Plug the power cord into the wall socket to turn the refrigerator on.
+0.9136	2.Open thedoor.and check if the interior light lights up.
+0.9253	3.Set the termperature to the coldest setting. and wait for about an hour. Thenthe freezer
+0.9318	will be slightly chilledand the matar should be running smoothly
+0.9545	4.Wait until the refrigerator reaches the set temperature.Now the refrigerator is ready
+0.9199	for use
+0.9347	STEP 9Final check
+0.9497	When installationis.complete.confirm that:
+0.9302	The refrigerator is plugged into an electrical outlet and grounded properly
+0.9386	The refrigerator is installed on a flat,level surface with a reasonable clearance from
+0.9483	walls and cabinets.
+0.9225	The refrigerator is level and is sitting firmly on the floor.
+0.9449	The door opens and closes freely.and the interior light turns on automatically when you
+0.9869	Installation
+0.9687	open the door.
+0.9773	34English
+
+--- page 35 ---
+lines:	39	conf_avg:	0.9118	conf_min:	0.5647	conf_max:	0.9967
+0.9945	Operations
+0.9917	Mainpanel
+0.9852	RF27T5201
+0.9874	RF27T5241
+0.9346	88
+0.8848	88
+0.9858	01
+0.8673	Power Coot
+0.9880	0207
+0.8608	Power Cool
+0.9794	0207
+0.9572	88
+0.9117	88
+0.6133	73
+0.9281	Freezer
+0.9743	03
+0.9623	Filter
+0.5647	FRte
+0.8213	04
+0.9868	04
+0.9967	Operations
+0.7163	ARAA
+0.9355	Water/lce
+0.9378	05
+0.8322	Waterflce
+0.9919	05
+0.8152	DcorAlarm
+0.9055	090
+0.9697	DoorAlarm
+0.8468	2090
+0.9292	01Fridge/FC
+0.8708	02Power Cool
+0.9489	03 Freezer/Power Freeze
+0.9290	04Ice Maker/Filter Reset
+0.9456	05Water/Ice/Dispenser Lock
+0.9330	06Door Alarm/Control Lock
+0.9597	07Sabbath Mode
+0.9322	applicablemodels only
+0.9842	English35
+
+--- page 36 ---
+lines:	41	conf_avg:	0.9413	conf_min:	0.5492	conf_max:	0.9975
+0.9975	Operations
+0.9761	NOTE
+0.9437	When you change the temperature on the panel,the panel displays the actual
+0.9641	temperature inside the refrigerator until the temperature matches the temperature you
+0.9425	set.Then.the panel displays the new set temperature. Note that it will take time for the
+0.9382	refrigerator to reach the new temperature.This is normal.During this time.you do not
+0.9589	need to set the temperature again.
+0.9374	To ensure optimal performance,we recommend setting the temperature to 0F-18C
+0.9583	for thefreezer.and37F3Cfor the fridge
+0.9407	The temperature in the refrigerator may rise if you open the door frequently or put
+0.9441	a large amount of food into the refrigerator.lf this happensthe temperature display
+0.9472	blinks until the refrigerator returns to the specified temperature settings.
+0.9442	If a communication error accurs between the temperature display and the main
+0.9391	controllerthis blinking continues for an extended time.Contact a local Samsung service
+0.9458	center for technical assistance.
+0.9466	The display of the main panel turns on only if the door is opened and-turnsoff if the
+0.9433	door is closed
+0.9273	If you set Control Lock on the main panel.the main panel locks automatically 1 minute
+0.9688	after inactivity
+0.9669	01Fridge/FC3sec
+0.9502	You can use the Fridge button to set the fridge temperature.
+0.9516	Press Fridge repeatedly to select a desired temperature between
+0.9907	Fridge
+0.9638	34F1Cand44F7C.
+0.9969	Operations
+0.9475	The temperature indicator displays the currently set or
+0.9629	selected temperature
+0.9612	You can also use the Fridge button to switch the temperature scale
+0.9500	between Celsius and Fahrenheit.
+0.9772	F
+0.9389	To switch the temperature scale.press and hold Fridge for
+0.9568	3 seconds to change the current temperature scale
+0.9399	02Power Cool
+0.9207	Power Cool speeds up the cooling process at maximum fan speed.This is useful to quickly
+0.9326	cool food that spoils quickly.or after the door is.left open for some time.The fridge keeps
+0.9465	running at full speed for several hours and then returns to the previous temperature.
+0.9408	Press and hold Power Cool for 3 secands
+0.9224	The corresponding indicator@lights up.and the refrigerator will speed up the cooling
+0.9144	process for you.
+0.9475	36English
+0.5492	Janisds
+
+--- page 37 ---
+lines:	22	conf_avg:	0.9481	conf_min:	0.9169	conf_max:	0.9974
+0.9421	03Freezer/Power Freeze (3 sec)
+0.9453	The Freezer button can be used to set the freezer temperature,or
+0.9941	Freezer
+0.9556	to activate Power Freeze.Available temperatures are between 5F
+0.9217	-15Cand-8F-23C
+0.9353	Power Freeze speeds up the freezing process at maximum fan
+0.9243	speed.The freezer keeps running at full speed for 50 hours and
+0.9486	then returns to the previous temperature.
+0.9420	To activate Power Freeze,press and hold Freezer for 3 seconds.
+0.9287	The corresponding indicator@lights up,and the refrigerator
+0.9462	will speed up the freezing process for you
+0.9169	To deactivate.press and hold Freezer for 3 seconds again.The
+0.9512	Power Freeze
+0.9500	freezer returns to the previous temperature setting.
+0.9419	To freeze large amounts of foodactivate Power Freeze for at
+0.9379	least 20 hours before putting food in the freezer
+0.9720	NOTE
+0.9485	Using Pawer Freeze increases power consumption.Make sure you
+0.9348	turn it off and return to the previous temperature if you do not
+0.9340	intend to use it.
+0.9974	Operations
+0.9889	English37
+
+--- page 38 ---
+lines:	41	conf_avg:	0.9306	conf_min:	0.5688	conf_max:	0.9975
+0.9975	Operations
+0.9404	04Ice Maker/Filter Reset3 sec
+0.9311	Press Ice Maker to turn the ice maker on or off.
+0.9424	The ice maker has 3indicatorsRapid Ice/Ice Maker On/
+0.9432	Ice Maker Offto indicate its operating status
+0.9654	When the ice maker operatesthe corresponding indicator
+0.9051	IceMaker Onturns on.
+0.9344	When the Rapid Ice function operates.the corresponding
+0.9312	indicatorRapid Ice&Ice Maker Onturns on.
+0.9417	When the ice maker is turned off,the corresponding indicator
+0.9169	Ice Maker Offturns on.In this case,ice making is disabled
+0.9477	even if you press the Cubed Ice or Crushed Ice buttons on the
+0.9208	dispenser panel. To enable ice making.you must turn the ice
+0.9560	maker on
+0.9706	NOTE
+0.9257	If the fridge part ice maker is turned offit will turn on if you
+0.9320	press and hoid the ice lever for more than 5 seconds.
+0.9446	When Rapid Ice&Ice Maker On indicators are onice making is
+0.9337	faster than when lce Maker On indicator is on alone
+0.9417	Ice Maker
+0.9221	When Rapid Ice is onamount of ice making increases to double
+0.9327	Turn off Rapid Ice to save energy
+0.9385	Twin Ice-Maker models onlyRF27T5241
+0.9969	Operations
+0.9304	Rapid ce
+0.9411	When the fridge part ice maker operates with Rapid Ice onthe
+0.9560	corresponding indicatorRapid Iceturns on.
+0.9404	When the fridge part ice maker operates with Rapid ice off.the
+0.9539	corresponding indicatorRapid Iceturns off.
+0.9003	lce MakerOn
+0.9576	When the fridge part ice maker operates,the corresponding
+0.9394	indicatorlce Maker Onturnson.
+0.9359	When the fridge part ice maker is turned off.the corresponding
+0.9212	indicatorIce Maker On)turns off.
+0.8779	ice Maker On
+0.9495	When the freezer part ice maker operates,the corresponding
+0.9302	indicatorlce Maker Onturnson
+0.9528	When the freezer part ice maker is turned off.the corresponding
+0.9300	indicatorlce Maker Onturns off.
+0.9563	38English
+0.5688	Uanisds
+
+--- page 39 ---
+lines:	32	conf_avg:	0.9355	conf_min:	0.8266	conf_max:	0.9967
+0.9369	After about 6monthsand typicallyabout 300gallons1200 Lof
+0.9210	water,the Filter indicator blinks red for several seconds when you
+0.9186	When this.happens,repiace the filterand then press and hold Ice
+0.9107	Maker for 3 seconds.The filter lifecycle wil be reset and the Filter
+0.9642	indicator turns off.
+0.9222	Filter Reset
+0.8729	NOTE
+0.9573	Some regions have relatively large amounts of lime in their
+0.9238	water.This can reduce the lifecycle of the filter.In these areas
+0.9439	you will have to replace the water filter more often than
+0.9610	specified above
+0.9018	If water is not dispensing properly the water filter is most likely
+0.8266	clogged.Replace the water fle
+0.9606	05Water/Ice/Dispenser Lock3sec
+0.9538	Water/Ice
+0.9221	dispense.presswater/iceThe correspanding indicator.turns on.
+0.9453	To prevent use of the dispenser panel buttons and the dispenser
+0.9274	lever.press and hold Water/Ice for more than 3 seconds.
+0.9403	If you press and hold the button again formore than 3 seconds. the
+0.9524	dispenser lock will be deactivated.
+0.9967	Operations
+0.9484	Dispenser Lock
+0.9728	NOTE
+0.9419	Dispenser panel
+0.9453	The Dispenser Lock on the dispenser panel daes not affect the
+0.9274	Dispenser lever
+0.8999	controls an the main panel. To lock the main panel,use the
+0.9409	Control Lock function on the main panel.
+0.9384	If you press Water/lce for 3seconds when both control lock and
+0.9209	dispenser lock are active.you will deactivate both contral lock
+0.9528	anddispenserlock.
+0.9871	English39
+
+--- page 40 ---
+lines:	27	conf_avg:	0.9440	conf_min:	0.8922	conf_max:	0.9975
+0.9975	Operations
+0.9460	06 Door Alarm/Control Lock3 sec
+0.9105	lf the door is left open for more than 2 minutes.an alarm will sound
+0.9384	and the alarm indicator will blink. You can toggle the alarm on and
+0.9250	off by pressing Door Alarm.The alarm is.enabled by factory default
+0.9538	Door Alarm
+0.9148	f the door is left open for S minutes,internal lightsin the fridge
+0.9232	and freezer will blink for 10 seconds and then turn on.The whole
+0.9350	process will be repeated every minute for 5 minutes.This is to alert
+0.9403	hearing-impaired users that a door is open. Nate that this function
+0.8922	is normal.
+0.9467	To prevent accidental setting changes.press and hold Door Alarm
+0.9291	for 3.seconds.The main panel will be disabled and the Lock
+0.9115	indicator@will turn on.
+0.9296	When Control Lock is anthe indicator blinks if any button on the
+0.9642	main.panelispressed.
+0.9331	if you press.and hold the button again for more than 3 seconds,
+0.9519	Control Lock will be deactivated.
+0.9568	Control Lock
+0.9374	However,Control Lock will be reactivated if na button is pressed
+0.9718	within1minute.
+0.9772	NOTE
+0.9489	Control Lock on the main panel does not affect the dispenser. The
+0.9969	Operations
+0.9476	To lock the dispenser and the dispenser lever,use the Dispenser
+0.9260	Lock function.
+0.9830	40English
+
+--- page 41 ---
+lines:	23	conf_avg:	0.9390	conf_min:	0.8905	conf_max:	0.9969
+0.9497	07 Sabbath Mode
+0.9240	The Sabbath mode stays active for 85 hours once it is activated.After thatit will be
+0.9744	deactivated automatically.
+0.9324	To activate Sabbath Mode,press and hold Door Alarm and Water/Ice simultaneously for
+0.9311	5 seconds.When the refrigerator is in Sabbath mode,the buttons.the display.and the
+0.9124	internal lights do not function.The refrigerator and freezer,however.continue to cool.
+0.9274	To deactivate Sabbath Mode,press and hold Door Alarm and Water/Ice simultaneously
+0.9095	againfor5.seconds.
+0.9760	NOTE
+0.9271	If the refrigerator powers off and restartsfor example,if there is a power failure
+0.9439	the Sabbath mode remains active.To end Sabbath Mode,you must deactivate it as
+0.9733	described above
+0.9348	Controls must be unlocked before activating Sabbath mode
+0.8905	08 Cooling Off
+0.9284	Cooling Off mode also called Shop mode is designed for use by retailers when they are
+0.9466	displaying refrigeratorson a retail floor.
+0.9074	In Cooling Off mode,the refrigerator's fan motor and lights operate normally.but the
+0.9484	compressors do not run so neither the refrigerator nor the freezer become cold.
+0.9370	To enter or exit the Cooling Off mode,press and hold Fridge and Power Cool
+0.9078	simultaneously for 6 seconds.Thenwhen the display blinks,press Door Alarm
+0.9334	When the Caoling Off mode is onthe refrigerator chime soundsand the refrigerator
+0.9969	Operations
+0.9846	English41
+
+--- page 42 ---
+lines:	35	conf_avg:	0.9388	conf_min:	0.8317	conf_max:	0.9975
+0.9975	Operations
+0.9646	Dispenser panel
+0.9821	Water
+0.9071	CubedCrushe
+0.8317	02
+0.9497	01Water/Lock
+0.8699	02Cubed Ice
+0.8860	03 Crushed Ice
+0.9690	01Water/Lock3 sec
+0.9397	To dispense chilled water.press Water.The corresponding indicator
+0.9963	Water
+0.9215	turnson.
+0.9905	Operations
+0.9392	To prevent the use of the dispenser panel buttons and the dispenser
+0.9403	leverpress and hold Water for more than 3 seconds
+0.9247	If you press and hold the button again for more than 3 secondsthe
+0.9570	dispenser lock will be deactivated.
+0.9946	Lock
+0.9315	When dispenser lock is on,the indicator blinks if any button on the
+0.9509	Dispenser panel/
+0.9309	dispenser panel is pressed or the dispenser lever is pressed
+0.9647	Dispenser lever
+0.9756	NOTE
+0.9401	The Lock on the dispenser panel does.not affect the controls onthe
+0.9024	main panel.To lock the main panei,use the Control Lock function or
+0.9276	the main panel.
+0.8774	02 Cubed lce
+0.9336	Cubed Ice
+0.9432	Press Cubed Ice ta dispense cubed ice.The corresponding indicator
+0.8788	turns on.
+0.9329	03 Crushed Ice
+0.9564	Press Crushed Ice to dispense crushed ice.The corresponding
+0.9324	CrushedIce
+0.9455	indicator turns on
+0.9730	42English
+
+--- page 43 ---
+lines:	41	conf_avg:	0.9445	conf_min:	0.9061	conf_max:	0.9977
+0.9921	Specialfeatures
+0.9405	Water/lce dispenser
+0.9414	Using the dispenser.you can dispense water with or without ice
+0.9119	The water dispenser offers 3 options.chilled water,cubed ice,and crushed ice.To dispense
+0.9377	chilled water.press Water on the dispenser panel.Put a water glass under the dispenser
+0.9562	and then push the dispenser lever.
+0.9538	To dispense water with ice
+0.9305	1.With the Ice Maker enabledpress Cubed
+0.9154	Ice ar Crushed Ice to select the ice type.
+0.9118	2.Put a water glass under the dispenser.
+0.9517	and then push the dispenser lever with
+0.9061	the glass. lce will be dispensed from the
+0.9820	dispenser.
+0.9481	3.Press Water to select water
+0.9649	4.Push the dispenser lever with the
+0.9599	glass.Water will be dispensed from the
+0.9665	dispenser.
+0.9592	NOTE
+0.9169	The dispenser will stop dispensing if you keep pushing the dispenser lever for about1
+0.9977	Operations
+0.9347	minute.To dispense more water,release and push the lever again.
+0.9532	Make sure the glass is in line with the dispenser to prevent the dispensed water from
+0.9297	spilling out.
+0.9423	If you do not use the water dispenser for 2-3 days,the dispensed water may have an
+0.9229	abnormal smell or taste This is not a system failure.Discard the first 1-2 glasses of
+0.9831	water.
+0.9844	Icemaker
+0.9480	The refrigerator has a built-in ice maker that automatically dispenses ice sa that you can
+0.9333	enjoy filtered water with cubed or crushed ice.
+0.9587	Ice making
+0.9265	After you have instalied your refrigerator and plugged it infollow these instructions to
+0.9391	ensure proper ice making and to keep the ice bucket full of ice
+0.9444	1.Let the refrigerator operate for at least 24 hours to ensure optimal performance
+0.9188	2.Dispense the first 4 to 6 ice cubes into a glass.
+0.9478	3.Wait another 8 hours and dispense another 4 to 6 ice cubes.
+0.9206	4.Then,wait anather 16 hours and dispense the first glass-full of ice
+0.9432	NOTE
+0.9189	If you consume all the ice at once,you must wait 8 hours before dispensing the first 4
+0.9397	to 6 cubes.This ensures that the ice bucket is filled with ice properly
+0.9165	Ice cubes generated rapidly may look white,which is normal.
+0.9731	English43
+
+--- page 44 ---
+lines:	39	conf_avg:	0.9457	conf_min:	0.8907	conf_max:	0.9975
+0.9975	Operations
+0.9941	Diagnosis
+0.9013	If ice does notdispense.first check the ice
+0.9956	maker.
+0.9290	1.Press Test on the side of the ice maker.
+0.9259	You will hear a chime (ding-dongwhen
+0.9667	you press the button.
+0.9430	2.You will hear another chime if the ice
+0.9264	maker is operating properly.
+0.9917	CAUTION
+0.9151	If the ice making chimerings repeatediy,contact your waterline installer or a local
+0.9581	Samsung service center.
+0.9228	Do not press Test repeatedly after the ice tray is filled with ice or water.Water may
+0.9304	overflow or ice may jam.
+0.9375	Do not put food in the ice bucket. The frozen food may damage the ice maker.especially
+0.9426	when you open or close the door.
+0.9359	When the refrigerator recovers pawer after a pawer failure.the ice bucket may contain
+0.9318	a mix af melted and jammed ice cubes.which can prevent the ice maker from working
+0.8907	properly.To prevent this.make sure to empty the ice bucket so the ice bucket can reill
+0.9969	Operations
+0.9529	with fresh.loose ice cubes.
+0.9277	Do not put fingers or any objects into the dispenser outiet or the ice maker This can
+0.9559	cause physical injury or property damage
+0.9377	When reinserting the ice maker tray,make sure that the tray is properly centered at the
+0.9078	entrance.Otherwise.the tray can get stuck
+0.9227	If You Turn the Ice Maker Off
+0.9257	If you press and hold Ice Maker for more than 3 seconds to turn the ice maker off.make
+0.9476	sure to rermove all ice cubes from the ice bucket.Remaining ice cubes may clump together
+0.9437	making it difficult to remave them
+0.9324	To remove the ice bucket,see the lce bucketapplicable models only section on page 45
+0.9754	NOTE
+0.9541	Removal of the ice bucket does not affect the thermal and mechanical performance of
+0.9452	the refrigerator.
+0.9680	Water clouding
+0.9390	Water supplied to the refrigerator flows through a core alkaline filter.During this filtering
+0.9586	process.the water pressure of the water increases and the water becomes saturated with
+0.9416	oxygen and nitrogen.This causes the water to look misty or cloudy temporarily when
+0.9416	dispensed.This is normal and the water will look clear after a few seconds.
+0.9727	44English
+
+--- page 45 ---
+lines:	28	conf_avg:	0.9412	conf_min:	0.8777	conf_max:	0.9982
+0.9982	Maintenance
+0.9644	Handling and care
+0.9395	Ice bucket(applicable models only)
+0.9290	If you do not dispense ice for an extended period.ice may form clumps inside the bucket,
+0.9109	If this happensremove and empty the ice bucket
+0.9391	1.To remove the ice bucket.gently lift
+0.8777	it up.and then pull it out slowly while
+0.9323	holding the bottom of the bucket with
+0.9382	one hand and the side with the other
+0.9973	hand
+0.9350	2.Empty the bucket
+0.9293	3.When done,put the bucket back into
+0.9196	position.If the bucket does not fit in
+0.8978	turn the helix screw 90 degreesand
+0.9538	then try again
+0.9348	If the ice bucket is not firmly inserted
+0.9441	turn the HelixA90 degrees,and then try
+0.9839	again.
+0.9951	Maintenance
+0.9418	ACAUTION
+0.9315	Do not appiy excessive force to the bucket cover.The cover may break
+0.9158	Do not forcefully clase the door.Water may spill over the ice maker.
+0.9161	To prevent injury.make sure to clean up any ice or water that has fallen on the floor
+0.9394	To prevent accidents or injury. do not let children play with the water dispenser or the
+0.9332	icemaker.
+0.9236	Do not put your hand or an object into the ice chute. This may cause physical injury ar
+0.9526	product damage
+0.9801	English45
+
+--- page 46 ---
+lines:	30	conf_avg:	0.9449	conf_min:	0.9022	conf_max:	0.9983
+0.9983	Maintenance
+0.9321	Use aniy the provided ice bucket.Third-party ice buckets may cause a system failure
+0.9667	NOTE
+0.9068	The water pressure required far ice making is between 30 to 120 psi 206 to 827kPa
+0.9548	Noise from the ice maker as it produces ice during the ice making process is normal
+0.9446	While the door is openneither the ice maker nor the water dispenser operates
+0.9741	Fridge shelves
+0.9421	The appearance of the shelves differs by model
+0.9283	To remove a shelf.fully open the
+0.9475	corresponding door.Hold the front of
+0.9022	the sheif,and then gently ift up and
+0.9064	slide out.
+0.9708	NOTE
+0.9086	Do not lift up the shelf fullywhen
+0.9457	removing or reinserting the shelf.The rear
+0.9315	wall of the fridge room can be dented.
+0.9200	To reinserthold the shelf at an angle
+0.9458	so the front is higher than the back,and
+0.9511	then insert the top hook into the top
+0.9310	shelf notch.Thenlower the shelf and
+0.9609	insert the bottom shelf hook into the
+0.9592	bottom shelf notch
+0.9860	CAUTION
+0.9755	The tempered glass shelves are heavy
+0.9431	Use caution when removing them
+0.9167	The shelf must be inserted correctly.Da
+0.9481	not insert upside down.
+0.9531	Glass containers may scratch the surface
+0.9418	of glass shelves.
+0.9534	46English
+
+--- page 47 ---
+lines:	22	conf_avg:	0.9227	conf_min:	0.6794	conf_max:	0.9963
+0.9717	Door bins
+0.9330	To remove the door bin,hold the front
+0.8814	sides of the binand then gently lift up
+0.9669	to remove
+0.9229	To reinsert.insert the door bin slightly
+0.9433	above its final location making sure that
+0.9220	the back of the bin is against the daor.
+0.9404	Hold the rear of the door bin with both
+0.9329	hands, and then press down sa that it
+0.8742	fits snugly
+0.9866	CAUTION
+0.8605	Do not remove a bin that is filled with
+0.9384	food.Empty the bin beforehand
+0.9293	Use caution when opening the door if
+0.9269	the bottom bin contains larger bottles.
+0.9190	which may fall over.
+0.9271	Do not allow children to play with the
+0.9237	bins.Sharp corners of the bin may cause
+0.9384	injury.
+0.9963	Maintenance
+0.9853	English47
+0.6794	0-11.M344
+
+--- page 48 ---
+lines:	24	conf_avg:	0.9468	conf_min:	0.8920	conf_max:	0.9983
+0.9983	Maintenance
+0.9772	Fridge drawers
+0.9438	Vegetable/fruit drawers
+0.9415	Gently lift up the front of the drawer and
+0.9133	slide out.
+0.9552	We recommend that you remove the
+0.9495	door bins before removing the drawer
+0.9483	This is to prevent damage to the door
+0.9734	bins.
+0.9282	To reinsert.insert the drawer into the
+0.9426	frame rails and then slide inward
+0.9744	Wide Pantry
+0.9184	To remove,fully apen the Wide Pantry
+0.8920	Thenslightly lift the front side and pull
+0.9464	straight out.
+0.9233	To reinsert.push the rails to the back of
+0.9449	the refrigerator.Then.place the Wide
+0.9237	Pantry onto the rails and slide it back
+0.9011	until it is in place.
+0.9611	Freezer baskets
+0.9952	Maintenance
+0.9508	Lower ice bucket (applicable models only)
+0.9421	1.Fully open the freezer drawer
+0.9775	48English
+
+--- page 49 ---
+lines:	26	conf_avg:	0.9442	conf_min:	0.8932	conf_max:	0.9951
+0.9446	2.Lift the lower ice bucket to remove
+0.9695	Upper basket
+0.9096	To remove.fully slide open the freezer
+0.9257	drawer.Lift up the front of the upper
+0.9412	basket and pull to remove
+0.9191	To reinsert,align.the frontwheelsof the
+0.9275	upper basket with the end of the lower
+0.9268	basket.Slide the upper basket to the
+0.9939	front.
+0.9795	Lower basket
+0.8932	To remove,first remove the upper
+0.9380	basket.Thentilt up the front of the
+0.9331	lower basket to pull out.
+0.9951	Maintenance
+0.9187	To reinsert.put the basket onto the rail
+0.9475	assembly rear side first.
+0.9836	CAUTION
+0.9370	Do not twist the hasket when removing or reinserting the basket. The basket can be
+0.9823	scratched
+0.9279	To prevent physical injury.property damagear suffocationkeep.children away from
+0.9386	freezer baskets that have beenremoved.
+0.9584	Do not remove the divider.
+0.9433	Put the wheels of the upper basket on the end of the rails of the lower basket.Then
+0.9308	slide the upper basket all the way to the front. Otherwise, the drawer will not open or
+0.9109	close properly.which will cause frost to build up
+0.9735	English49
+
+--- page 50 ---
+lines:	30	conf_avg:	0.9485	conf_min:	0.8900	conf_max:	0.9982
+0.9982	Maintenance
+0.9946	Cleaning
+0.9685	Interior and exterior
+0.9865	WARNING
+0.9066	Do not use benzene, thinnerhome/car detergent.or Clorox to clean the refrigerator.
+0.9568	They may damage the surface of the refrigerator and cause a fire.
+0.9381	Do not spray water onto the refrigerator.This may cause electric shock
+0.9507	Regularly use a dry cloth to remove all foreign substances such as dust or water from the
+0.9525	power plug terminals and contact points.
+0.9470	1.Unplug the power cord.
+0.9259	2.Use a moistened.soft.lint-free cloth or paper towel to ciean the refrigerators interior
+0.9667	and exterior
+0.8900	3.When done.use a dry cloth or paper towel to dry well
+0.9219	4.Plug in the power cord
+0.9488	Ice/Water dispenser
+0.9867	CAUTION
+0.9040	When crushed ice is selected some residual ice chipsmay collect in the ice chute. To
+0.9270	prevent this.remove the residual ice from the chute using a soft,clean cioth.
+0.9593	Rubber seals
+0.9205	If the rubber seals of a door become dirty.the.door may not clase.properly and reducing
+0.9346	refrigerator performance and efficiency Use a mild detergent and damp cloth to clean the
+0.9018	rubberseals.Then,dry well with a cloth
+0.9950	Maintenance
+0.9562	Rear panel
+0.9362	To keep cords and exposed parts of the
+0.9242	rear panel free of dirt,vacuum the panel
+0.9347	once or twice a year.
+0.9850	CAUTION
+0.9601	Do not remove therear panel cover. Electric shock may occur.
+0.9772	50English
+
+--- page 51 ---
+lines:	36	conf_avg:	0.9330	conf_min:	0.8680	conf_max:	0.9983
+0.9983	Replacement
+0.9512	Water filter
+0.9209	AWARNING
+0.9342	Do not use third-party water filters.Use only Samsung-provided or -approved filters.
+0.9497	Unapproved filters may leak and damage the refrigeratorcausing electric shock.
+0.9411	Samsung is not responsible for any damage that may occur from use of third-party
+0.9202	water filters.
+0.9447	The Filter Reset indicatorFilter turnsred to let you know it is time toreplace the water
+0.9219	filterBefore replacing the filter,make sure the water supply line is shut off.
+0.9368	1.Shut off the water supply line
+0.9544	2.Turn the knob of the filter cartridge
+0.9534	90degrees.caunterclockwise1/4turn)
+0.9225	The filter cartridge unlocks.
+0.9368	3.Pull out to remove the cartridge
+0.9142	f the water filter is severely
+0.9452	contaminated,the cartridge may not
+0.9153	be easy to remove.If that is the case,
+0.9535	use farce to remove the cartridge.
+0.9250	To prevent water leaks from the filter
+0.8844	opening,pull the cartridge straight
+0.9951	Maintenance
+0.8680	out while removing it.
+0.8680	4.Insert a new filter cartridge.Use only
+0.9277	Samsung-provided ar approved filters
+0.9395	5.Turn the cartridge knob clockwise to
+0.9336	lock into place
+0.9006	6.Pressand hold Ice Maker on the main
+0.9402	panel for 3 seconds to reset the life
+0.9017	cycle detector. The Filter Reset indicator
+0.9139	(Filterturns off.
+0.9087	7.when you are done replacing the filter.
+0.9472	open the water valve and run water
+0.9465	through the dispenser for about7
+0.9474	minutes.This is to remove impurities
+0.9508	and air from the water line
+0.9758	English51
+
+--- page 52 ---
+lines:	29	conf_avg:	0.9347	conf_min:	0.6301	conf_max:	0.9986
+0.9986	Maintenance
+0.9761	NOTE
+0.9297	A newly installed fiiter may cause the water dispenser to spurt water briefly.This is
+0.9550	because air has entered the waterline
+0.9416	The replacement process may cause the water dispenser to drip for a short period of
+0.9340	time.If it dripssimply wipe up any water on the floor with a dry towel
+0.9473	Reverse osmosis water filtration system
+0.9261	The water pressure of the water supply system to a reverse osmosis water filtration
+0.9147	system must be between 30 to 120 psi 206 to 827kPa.
+0.9519	The water pressure of the reverse osmosis water filtration system to the refrigerator's
+0.9193	cold water line must be at least 40 psi276 kPa).If the water pressure is belaw these
+0.9898	specifications:
+0.9319	Check if the sediment filter in the reverse osmosis system is biocked.Repiace the filter
+0.9482	if necessary
+0.9290	Refill the water tank in the reverse asmosis system with water.
+0.9323	If your refrigerator has a water filter,it may further reduce the water pressure when
+0.9208	used in conjunction with a reverse osmosis system.Remove the water filter.
+0.9344	For more.information or servicing.contact a licensed plumbing.professional,
+0.9342	Ordering a new filter
+0.9370	To purchase a new water filter,contact a local Samsung service center.orvisit www.
+0.9582	samsungparts.com on the web.
+0.9520	LED Lamps
+0.9372	To.replace the lamps of the refrigerator.contact a local Samsung service center
+0.9840	WARNING
+0.9251	The lamps are not user-serviceable.Do not attempt to replace a lamp yourself. This can
+0.9949	Maintenance
+0.9182	causeelectric-shock.
+0.9555	52English
+0.6301	Vaniada
+
+--- page 53 ---
+lines:	52	conf_avg:	0.9547	conf_min:	0.8978	conf_max:	0.9971
+0.9958	Troubleshooting
+0.9194	Before calling for service,review the symptoms and recommended solutions below.If
+0.9519	none of the suggested solutions resolve your problemplease visit our website at www
+0.9447	samsung.com or call Samsung Customer Care at 1-800-SAMSUNG726-7864.Note that
+0.9272	you will be charged for any service visits in which ho defects were found.
+0.9958	General
+0.9948	Temperature
+0.9971	Symptom
+0.9555	Possible causes
+0.9893	Solution
+0.9323	Pawer cordisnot pluggedin
+0.9286	Properly plug inthe power
+0.9925	properly
+0.9856	cord.
+0.9402	Temperature controlisnot
+0.9250	Set the temperature lower
+0.9280	set correctly.
+0.9732	Keeptherefrigeratoraway
+0.9500	Refrigerator islocated neara
+0.9365	from direct sunlight or a heat
+0.9597	heat source or direct sunlight.
+0.9927	Fridge/freezer
+0.9241	source.
+0.9423	does not operate
+0.9208	Make sure there is a gap of
+0.9846	Fridge/freezer
+0.9572	Not enough clearance
+0.9306	at least 2.5inches5 cm
+0.9752	temperature is
+0.9620	between refrigerator and
+0.9606	between the refrigerator
+0.9123	warm.
+0.9633	nearby walls or cabinets.
+0.9616	back and sides and any
+0.9481	nearbywallsor.cabinets
+0.9485	Energy Saver mode is
+0.9592	Deactivate Energy Saver
+0.9930	activated.
+0.9614	mode.
+0.9520	The refrigerator is
+0.9245	Da not averload the
+0.9124	averloaded.Faod is blocking
+0.9313	refrigerator.Do not allow
+0.9578	the refrigerator vents.
+0.8978	faod to black vents.
+0.9682	Fridge/freezer is
+0.9342	Temperature contral is not
+0.9482	set correctly.
+0.9613	Set the temperature higher
+0.9695	over-cooling.
+0.9941	Troubleshooting
+0.9736	English53
+
+--- page 54 ---
+lines:	46	conf_avg:	0.9365	conf_min:	0.5443	conf_max:	0.9961
+0.5639	C
+0.9958	Troubleshooting
+0.9900	Symptom
+0.9642	Possible causes
+0.9766	Solution
+0.9519	To prevent condensation
+0.9107	from forming.the
+0.9765	refrigerator has heat-proof
+0.9510	piping in the front corners
+0.9365	If the ambient temperature
+0.9382	risesthis equipment may not
+0.9237	work effectively.This is not a
+0.9381	Refrigerator has heat-proof
+0.9891	Interior wall is hot.
+0.9399	system failure
+0.9260	piping in the interior wall
+0.9958	Odors
+0.9946	Symptom
+0.9363	Possible causes
+0.9845	Solution
+0.8653	Spailed food.
+0.9509	Clean the refrigerator and
+0.9762	Refrigerator has
+0.9157	remave any spoiled food.
+0.9345	odors.
+0.8884	Make.sure strong smieiling
+0.9414	Foad with strong odors.
+0.9338	food is wrapped airtight
+0.9961	Frost
+0.9924	Symptom
+0.9560	Possible causes
+0.9910	Solution
+0.9573	Frost around the
+0.9256	Foad is blocking the vents
+0.9363	Make sure no food blocks the
+0.9883	vents.
+0.9585	refrigerator vents.
+0.9883	Troubleshooting
+0.9341	Make sure food does not
+0.9492	Frost on interior
+0.9308	Door is not closed properly
+0.9461	block the door.Clean the
+0.9556	walls.
+0.9727	door gasket
+0.9664	54English
+0.5443	tanida
+
+--- page 55 ---
+lines:	53	conf_avg:	0.9510	conf_min:	0.8661	conf_max:	0.9966
+0.9966	Condensation
+0.9966	Symptom
+0.9729	Possible causes
+0.9740	Solution
+0.8661	If door is left open,moisture
+0.9676	Remove the moisture and
+0.9923	Condensation
+0.9486	do not leave a door open for
+0.9754	enters the refrigerator.
+0.9474	forms on the
+0.9379	extended periods of time.
+0.9266	interior walls.
+0.9506	Food with high moisture
+0.9597	Make sure food is wrapped
+0.9636	content.
+0.9921	airtight.
+0.9384	Water/ice dispenser models only)
+0.9810	Possible causes
+0.9844	Solution
+0.8999	Water flow is
+0.9681	Make sure the water pressure
+0.9448	weaker than
+0.9323	Water pressure is tao low
+0.9226	is between 30 to120 psi
+0.9793	normal.
+0.9249	206 to827kPa
+0.9572	The icemaker function is
+0.9395	Ice maker makes a
+0.8997	activated.but the water
+0.9355	Press Ice Maker
+0.9746	buzzing sound.
+0.9613	supply to the refrigerator has
+0.9576	not been connected.
+0.9269	Ice maker has just been
+0.9422	You must wait for 12hours
+0.9333	for the refrigeratar ta make
+0.9845	installed.
+0.9786	ice.
+0.9497	Set the freezer temperature
+0.9376	Freezer temperature is too
+0.9305	Ice maker does not
+0.9291	below0F-18Cor-4F
+0.9497	make ice.
+0.9668	high.
+0.9339	-20C in warm ambient air.
+0.9280	Dispenser panel Lock is
+0.9681	Deactivate dispenser panel
+0.9913	activated.
+0.8839	Lock.
+0.9086	Ice maker is off.
+0.9214	Turn on the ice maker.
+0.9942	Troubleshooting
+0.9737	English55
+
+--- page 56 ---
+lines:	49	conf_avg:	0.9414	conf_min:	0.6778	conf_max:	0.9961
+0.9961	Troubleshooting
+0.9900	Symptom
+0.9664	Possible causes
+0.9766	Solution
+0.9043	Ice may jam if the ice
+0.8977	If you wan't be using the
+0.9530	refrigerator for a long time
+0.9283	dispenser is not used for a
+0.9573	empty the ice bucket and
+0.9533	long timeapprox.3weeks
+0.9427	turn off the ice maker.
+0.9320	Ice bucket is not properly
+0.9630	Make sure the ice bucket is
+0.9908	inserted.
+0.9023	praperly inserted
+0.9521	Check if the water line is
+0.9345	Ice does not
+0.9244	installed correctly.Check if
+0.9573	the water line stop cock is
+0.9907	dispense.
+0.9683	closed.
+0.9441	Water line is not connected
+0.9422	properlyor water supply is
+0.8978	noton.
+0.9519	Check if the water line is
+0.8824	installed carrectly,Check if
+0.9611	the water line stop cock is
+0.9630	Water line is not connected
+0.9368	properlyor watersupply is
+0.9043	not on
+0.9629	Water does not
+0.9808	dispense.
+0.9492	Dispenser panel Lock is
+0.9660	Deactivate dispenser panel
+0.9865	Troubleshooting
+0.9768	activated.
+0.9710	Lack.
+0.9511	Use only Samsung-provided
+0.8786	A third-party water filter was
+0.8768	or approved filters
+0.9934	installed.
+0.9610	Unapprovedfiltersmay leak
+0.9422	and damage the refrigerator.
+0.9289	Repiace the water fiiter.After
+0.8957	on or blinks.
+0.9506	replacing.reset the filter
+0.9636	indicator sensor
+0.9515	56English
+0.6778	Uanida
+
+--- page 57 ---
+lines:	14	conf_avg:	0.9092	conf_min:	0.6342	conf_max:	0.9976
+0.9712	Do you hear abnormal sounds from the refrigerator?
+0.9100	Before calling for service,review the information below.If youstill have questions about
+0.9305	sounds your refrigerator is making.please call Samsung Customer Care at 1-800-SAMSUNG
+0.9384	726-7864.Note that you will be charged for any service visitsrelated to normal
+0.9360	operating sounds in which no defects were found
+0.9726	These sounds are normal
+0.9344	When starting or ending an operation,the refrigerator may make sounds similar to a
+0.9105	car engine ignitian.As the operation stabilizesthe sounds will decrease.
+0.9392	While the fan is operating.these sounds may occur.When the refrigerator reaches the
+0.9367	set temperature,the fan sound will stop.
+0.7831	SSSARR!
+0.9976	Troubleshooting
+0.9340	English 57
+0.6342	1.M3
+
+--- page 58 ---
+lines:	13	conf_avg:	0.9284	conf_min:	0.6909	conf_max:	0.9974
+0.9974	Troubleshooting
+0.9148	During a defrost cycle,water may drip on the defrost heater.causing sizzling sounds.
+0.6909	C
+0.9121	As the refrigerator cools or freezes,refrigerant gas maves.through sealed pipes,causing
+0.9344	bubbling sounds.
+0.9534	As the refrigerator temperature increases or decreases.plastic parts contract and
+0.9477	expand.creating knocking naises.These noises accur during the defrosting cycle or
+0.9375	when electronic parts are working
+0.9925	Troubleshooting
+0.9526	buzzing sound.
+0.9356	Due to pressure equalizing when you open and close the refrigerator door.you may
+0.9333	hear a whooshing sound
+0.9672	58English
+
+--- page 59 ---
+lines:	36	conf_avg:	0.9402	conf_min:	0.8916	conf_max:	0.9964
+0.9626	LIMITED WARRANTY(U.S.A.)
+0.9744	SAMSUNG REFRIGERATOR
+0.9438	LIMITED WARRANTY TOORIGINAL CONSUMER PURCHASER WITHPROOF OF
+0.9964	PURCHASE
+0.9319	This SAMSUNG brand product.as supplied and distributed by Samsung Electronics
+0.9180	America,IncSAMSUNC and delivered new.in the original carton to the original consumer
+0.9237	purchaser,is warranted by SAMSUNG against manufacturing defects in materials or
+0.9403	workmanship for the limited warranty period of
+0.9593	One1year partsand labor
+0.9365	Five 5 years parts.and labor on Sealed Refrigeration System Only Compressor
+0.9136	Evaporator.Condenser.Drier,and Connecting Tubing
+0.9363	Ten 10years part and Five 5) years labor on Digital Inverter Compressor Only
+0.9293	This limited warranty is valid only on products purchased and used in the United States
+0.9468	that have been installedoperatedand maintained according to the instructions attached
+0.9529	to or furnished with the product.To receive warranty servicethe purchaser must contact
+0.9500	SAMSUNG at the address or phone number provided below for problem determination and
+0.9328	service procedures.Warranty service can only be performed bya SAMsuNG authorized
+0.9235	service center.The original dated bill of sale must be presented upon request as proof
+0.9404	of purchase to SAMSUNG or SAMSUNG's authorized service center to receive warranty
+0.9426	service.
+0.9417	SAMSUNG will provide in-home service within the contiguoos United States during the
+0.9312	warranty period at no chargesubject to availability of SAMSUNG authorizedservicers
+0.9339	within the customer's geagraphic area.If in-home service is not availableSAMSUNG may
+0.9371	electat its optionto provide transportation of the product to and from an authorized
+0.9385	service center.If the productis located in an area where service by a SAMSUNG authorized
+0.9446	servicer is not available.you may be responsible for a trip charge or required to bring the
+0.9249	product to a SAMsuNG authorized service center for service
+0.9363	To receive in-home service, productmust beunobstrocted and accessible to the service
+0.9320	agent.
+0.8916	During the applicablewarranty perioda product will be repairedreplaced,or the purchase
+0.9344	price refunded,at the sole option of SAMSUNG.SAMSUNG may use new or reconditianed
+0.9344	parts in repairing a product,or replace the product with a new or reconditioned product.
+0.9494	Replacement parts and products are warranted for the remaining portion of the original
+0.9291	product's warranty or ninety 90 dayswhichever is longer.All replaced parts and products
+0.9428	are the property of SAMSUNG and you must return them to SAMSUNG
+0.9890	English59
+
+--- page 60 ---
+lines:	28	conf_avg:	0.9357	conf_min:	0.8274	conf_max:	0.9952
+0.9565	LIMITED WARRANTY(U.S.A.)
+0.9469	This limited warranty covers manufacturing defects in materials or workmanship
+0.9352	encountered innormal householdnoncommercial use af this product and shall not
+0.9281	cover the followingdamage that accurs in shipmentdelivery,installation,and uses for
+0.9451	which this product was.not intendeddamage caused by unauthorized modification or
+0.9374	alteration of the productproduct where the original factory serial numbers have been
+0.9344	removed,defaced.changed in any way,or cannot be readily determinedcosmetic damage
+0.9353	including scratches,dents.chips.and other damage to the product's finishesdamage
+0.8956	caused by abuse,misuse,pest infestations,accidentfire,floods.or other acts of nature or
+0.8274	Goddamage caused by use of equipmentutilities.services.partssuppliesaccessories
+0.9037	applications,installations,repairs.external wiring or connectors not supplied or authorized
+0.9006	by SAMSUNG damage caused by incorrect electrical line currentvoltagefluctuations
+0.9559	and surgesdamage caused by failure to operate and maintain the product according
+0.9214	to instructions,in-home instruction on how to use your productand service to correct
+0.9439	installation not in accordance with electrical or plumbing codes or correctian of household
+0.9107	electrical or plumbingi.e.house wiring.fuses.or water inlet hoses.The cost of repair or
+0.9635	replacement under these excluded circumstances shall be the customer's responsibility
+0.9406	Visits by an authorized servicer to explain product functions.maintenance or installation
+0.9367	are not covered by this limited warranty Please.contact SAMSUNG at the number below
+0.9518	for assistance with any of these issues
+0.9908	EXCLUSIONOFIMPLIEDWARRANTIES
+0.9533	IMPLIED WARRANTIES,INCLUDING THE IMPLIED WARRANTIESOF MERCHANTABILITY OR
+0.9334	FITNESS FOR A PARTICULAR PURPOSE,ARE LIMITED TO ONE YEAROR THE SHORTEST
+0.9223	PERIOD ALLOWED BY LAW.Some states do not allow limitations on how long an implied
+0.9289	warranty lasts.so the above limitations or exclusions may not apply to you. This warranty
+0.9287	gives you specific rights,and you may also have other rightswhich vary from state to
+0.9952	state
+0.9768	60English
+
+--- page 61 ---
+lines:	20	conf_avg:	0.9280	conf_min:	0.8600	conf_max:	0.9700
+0.9700	LIMITATION OF REMEDIES
+0.9244	YOUR SOLE AND EXCLUSIVE REMEDY IS PRODUCT REPAIR.PRODUCT REPLACEMENT,
+0.9290	OR REFUND OF THE PURCHASE PRICE AT SAMSUNG'S OPTION,AS PROVIDED IN THIS
+0.9270	LIMITEO WARRANTY.SAMSUNG SHALL NOT BE LIABLE FOR SPECIAL,INCIDENTAL OR
+0.9425	CONSEQUENTIAL DAMAGES.INCLUDING BUT NOT LIMITED TO TIME AWAY FROM WORK
+0.9349	HOTELS AND/OR RESTAURANT MEALS.REMODELING EXPENSES.LOSS OF REVENUE OR
+0.9233	THEORY ON WHICH THE CLAIMIS BASED.AND EVEN IF SAMSUNG HAS BEEN ADVISED OF
+0.9141	THE POSSIBILITY OF SUCH DAMAGES.Some states do not allow exclusion.or limitation of
+0.9258	incidental or consequential damages,so the above limitations or exclusions may not apply
+0.9273	to you.This warranty gives you specific rightsand you may also have other rights,which
+0.9194	vary from state to state
+0.9259	SAMSuNG does not warrantuninterrupted or error-free operation of the product.No
+0.9233	warranty ar guarantee given by any other person,firm,or corporation with respect to this
+0.9377	product shall be binding on SAMSUNG.
+0.9393	To obtain warranty service,please contact SAMSUNG at
+0.9131	Samsung Electronics America.inc
+0.9479	85 Challenger Road
+0.8600	Ridgefield ParkNJ07660
+0.9355	1-800-SAMSUNG(726-7864)
+0.9388	English 61
+
+--- page 62 ---
+lines:	20	conf_avg:	0.9450	conf_min:	0.9192	conf_max:	0.9864
+0.9396	Warranty Information (CANADA)
+0.9409	If your refrigerator needsservice
+0.9361	Do not hesitate to call any Samsung Authorized Service Center nearby giving them your
+0.9338	name,addressandtelephone numberif.your product is notfunctioning properly
+0.9601	Limited Warranty for Original Purchaser
+0.9381	This Samsung product is warranted by Samsung Electronics Canada Inc.(hereafter referred
+0.9405	to as sECA against manufacturing defects in material or workmanship for the following
+0.9864	periods:
+0.9561	Labor:1year(in-home
+0.9386	Parts:1year
+0.9524	Inverter Compressor10years(Partonly
+0.9304	SECA further warrants that if this product fails to operate properly within the specified
+0.9534	warranty period and the failure is due to improper workmanship or defective material
+0.9192	SECA will repair or replace the product at its option.In-home service is not available in all
+0.9421	areas.Contact us to find out if in-home service is currently available in your area by using
+0.9495	the contact information at the back.of this warranty
+0.9394	All warranty repairs or part replacements must be performed by a SECA Authorized Service
+0.9327	Center.Tofind the nearest SECA Service Center.call1-800-SAMSUNG(7267864or visit
+0.9525	our web site at www.samsung.com/ca
+0.9584	62English
+
+--- page 63 ---
+lines:	22	conf_avg:	0.9280	conf_min:	0.5172	conf_max:	0.9954
+0.9659	Obligation to the Original Owner
+0.9379	The original dated sales receipt must beretained by the customer and is the only
+0.9337	acceptable proof of purchase.It must be presented to a SECA Authorized Service Center
+0.9490	at the time service is requested before warranty services are rendered.On all carry-in
+0.9445	madels,transportation to and from the Authorized Service Center is the responsibility of
+0.9636	the customer.
+0.9582	Exclusions ofthe Warranty
+0.9145	This warranty does not cover damage due to accident,firefiaod.and/or other Acts of God
+0.8982	misuse.incorrect line voltage,improper installationimproper or unauthorized repairs.
+0.9444	commercial use,or damage that occurs during shipping.Customer adjustments which are
+0.9530	explained in this owners manual are not covered under the terms of this warranty. This
+0.9417	number.This warranty is valid only on products purchased and used in Canada
+0.9480	SAMSUNG CUSTOMER CARE CENTER
+0.9248	Samsung Electronics Canada Inc.
+0.9254	2050 Derry Road West
+0.9041	Mississauga.Ontario L5N 0B9
+0.9954	Canada
+0.9531	1-800-SAMSUNG(726-7864
+0.9885	www.samsung.com/ca/support(English)
+0.9715	www.samsung.com/ca_fr/support(French)
+0.9830	English63
+0.5172	as-1. 384
+
+--- page 64 ---
+lines:	20	conf_avg:	0.9209	conf_min:	0.6435	conf_max:	0.9940
+0.9940	SAMSUNG
+0.8907	ican the QR codeor visit
+0.9599	How-to Videos and Live Shows
+0.9454	ContactSAMSUNG WORLD WIDE
+0.9334	If you have any questions or comments.relating to Samsung products,pleasecontact the
+0.9269	SAMSUNG Customer Care Center,
+0.9928	Country
+0.9736	Contact Center
+0.8811	Web Site
+0.9340	1-800-SAMSUNG(726-7864
+0.9879	USA
+0.9230	1-844-5AM-PAYS(726-7297
+0.7503	oddns/sn/woatiunsesMw
+0.9913	CANADA
+0.9134	1-800-SAMSUNG(726-7864
+0.9525	www.samsung.com/ca/supportEnglish)
+0.8869	1-B44-SAM-PAY5(726-7297)
+0.9482	www.samsung.com/ca_fr/support(French
+0.9889	DA68-04012A-00
+0.6435	0-11.M34
